@@ -1,2 +1,3 @@
 Name: Abhinavpreet Singh Arora
 City: Patiala
+Skills: Full-Stack Development, Backend Engineering, React.js, Next.js, Node.js, Python, Java, SQL, AI/Agentic AI Development, REST APIs, System Design, Distributed Systems, Cloud Computing, Blockchain, Data Analytics, Database Management
